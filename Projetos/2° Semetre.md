@@ -8,8 +8,22 @@ O problema reportado era a falta de controle da jornada dos motoristas de caminh
 
 ![Screenshot_2020-09-27 Figma(4)](https://user-images.githubusercontent.com/58821700/94359958-637ecb80-0080-11eb-9b12-4469e18ba3fc.png)
 
--Login
 
-![Screenshot_2020-09-27 Figma(2)](https://user-images.githubusercontent.com/58821700/94358648-eac84100-0078-11eb-8a42-8fa644d4e4b1.png)
+<li><a href="https://github.com/pdrMottaS/PI-JornadaDeMotoristas">Repositório do projeto</a></li>
 
-<li><a href="https://github.com/guitambau/PI-JornadaDeMotoristas">Repositório do projeto</a></li>
+#### Tecnologias Utilizadas
+- Java
+- SpringBoot
+- MySql
+- React
+
+#### Contribuições Pessoais
+<p align="justify">Participei das tomadas de decisão da Equipe onde fui o Product Owner. Conversas com o cliente para saber como melhor seria o sistema para as soluções de seus problemas.</p>
+ 
+#### Hard Skills
+- Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
+- MySql: Domino o básico.
+
+#### Soft Skills
+- <p align="justify">Comunicação: Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o desenvolvimento do projeto.</p>
+ 
