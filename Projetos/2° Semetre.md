@@ -23,7 +23,7 @@ O problema reportado era a falta de controle da jornada dos motoristas de caminh
  
 #### Hard Skills
 - Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
-- MySql: Domino o básico.
+- MySql: Sei mexer.
 
 #### Soft Skills
 - <p align="justify">Comunicação: Sendo o segundo semestre aulas online por conta da pandemia a comunicação foi essencial, principalmente na minha função como PO do projeto, precisei melhorar minha comunicação para ser claro com o que o cliente queria para o time de dev.</p>
