@@ -26,5 +26,5 @@ O problema reportado era a falta de controle da jornada dos motoristas de caminh
 - MySql: Domino o básico.
 
 #### Soft Skills
-- <p align="justify">Comunicação: Como segundo semestre em uma turma tendo aula remota, o grupo não tinha muita afinidade. Nós só sabiamos das hard skills de cada um baseado no projeto anterior. Precisei de boas habilidades comunicativas para escutar e entender o lado de alguns integrantes para que tivessem uma interação boa o suficiente para o desenvolvimento do projeto.</p>
+- <p align="justify">Comunicação: Sendo o segundo semestre aulas online por conta da pandemia a comunicação foi essencial, principalmente na minha função como PO do projeto, precisei melhorar minha comunicação para ser claro com o que o cliente queria para o time de dev.</p>
  
