@@ -29,7 +29,7 @@ Com essa experiencia, .Net é onde tenho o meu maior dominio.
 
 <li><a href="https://github.com/guitambau/PortifolioFatecApi/blob/main/Projetos/1°%20Semetre.md">1º Semestre</a></li>
 
-<li><a href="https://github.com/guitambau/PortifolioFatecApi/blob/main/Projetos/2°%20Semetre.md">1º Semestre</a></li>
+<li><a href="https://github.com/guitambau/PortifolioFatecApi/blob/main/Projetos/2°%20Semetre.md">2º Semestre</a></li>
 
 
 
