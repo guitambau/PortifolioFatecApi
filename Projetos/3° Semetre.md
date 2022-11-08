@@ -1,6 +1,5 @@
 ## 3º Semestre -  Scrum-Cloud 
 
-## :bulb: Projeto Scrum-Cloud 
 ![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png)
 
 
@@ -14,7 +13,7 @@ Uma aplicação web que permita equipes remotas de desenvolvimento realizarem as
 Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.
 
 * [Repositorio Equipe Tetris](https://github.com/equipe-tetris/scrum-cloud-frontend) 
-* 
+
 ## :computer: Tecnologias Utilizadas
 - GitHub
 - Linguagem de Programação: Java + Spring Boot
@@ -30,4 +29,5 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 - Java: Já consigo criar uma classe inteira desde a entity até a requisição no controller.
 - MySql: Sei ensinar.
 
-#### Soft Skills 
+## Soft Skills 
+* Comunicação clara de forma com que todos entendiam oque tinha de ser feito
