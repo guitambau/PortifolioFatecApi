@@ -4,7 +4,7 @@
 
 
 ## A empresa
-No segundo semestre, tivemos como cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
+No terceiro semestre, tivemos como cliente a empresa IACIT, uma empresa brasileira, fundada em 1986. Com sede em São José dos Campos (SP), a empresa possui capacitação tecnológica para o desenvolvimento de produtos e sistemas aplicados ao Auxílio do Controle e do Tráfego Aéreo e Marítimo; Defesa e Segurança Pública; Fábrica de Software; Meteorologia; Pesquisa, Desenvolvimento e Inovação e Telemetria.
 
 ## :clipboard: Solicitação 
 Uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
