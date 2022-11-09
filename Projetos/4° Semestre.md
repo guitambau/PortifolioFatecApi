@@ -1,4 +1,4 @@
-## 3º Semestre -  Scrum-Cloud 
+## 4º Semestre -  Scrum-Cloud 
 
 ## A empresa
 No quarto semestre, tivemos como cliente a empresa Oracle, uma empresa norte americana, fundada em 1978. Que tem como principal atividade ser ium SGDB (sistema gerenciador de banco de dados, criou a linguagem PL/SQL que é utilixada no processamento de transições.
