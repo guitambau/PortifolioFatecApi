@@ -21,9 +21,39 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 - IDE Vs Code || Frontend
 - React
 - MySql
+- HTML5
+- CSS
 
 ## Contribuições Pessoais
-<p align="justify">Neste projeto trabalhei como desenvolvedor no back end, dando suporte para o Davi Machado onde fizemos toda a logica de programação e testes manuais para ver o funcionamento da logica implementada. Com uma participação mais efetiva montei o banco de dados.</p>
+<p align="justify">Neste projeto trabalhei como desenvolvedor no back end, dando suporte para o Davi Machado onde fizemos toda a logica de programação e testes manuais para ver o funcionamento da logica implementada.</br>
+Mais efetivamente modelei e criei o banco de dados.</p>
+<details>
+  <summary>Modelagem do Banco</summary>
+  </br>
+  
+  Modelo entidade relacional</br>  
+  ![image](https://user-images.githubusercontent.com/37739397/203437050-75f84315-f12e-4b59-b5a0-dd22117b8e4f.png)
+  
+  </br>
+  Modelo Logico  
+  ![image](https://user-images.githubusercontent.com/37739397/203437305-6d46b35d-d86e-463a-bcc3-80e0ac63ac01.png)  
+ </details> 
+  
+ <details>
+  <summary> Funcionalidade desenvolvidas</summary>
+  </br>
+  
+  Calculo médio dos votos e calculo da moda  
+  ![image](https://user-images.githubusercontent.com/37739397/203442790-500c9521-ce66-4ceb-aaaf-b39af7eb523e.png)
+  
+  </br>
+  Mudança de Scrum Master na reunião
+  
+  ![image](https://github.com/guitambau/PortifolioFatecApi/blob/main/IMG/changeSM.png) 
+
+  
+  </details>
+
 
 
 ## Hard Skills
