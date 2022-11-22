@@ -1,6 +1,7 @@
 ## 3º Semestre -  Scrum-Cloud 
 
-![logo_projeto](https://github.com/alexiakarine/Bertoti/blob/main/Metodologia/Icons/logo-scrumcloud.png)
+![logo_projeto](https://github.com/alexiakarine/scrum-cloud-backend/blob/master/resource/images/icon-scrumcloud.png)
+
 
 
 ## A empresa
