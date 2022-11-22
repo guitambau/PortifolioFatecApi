@@ -59,6 +59,9 @@ Mais efetivamente modelei e criei o banco de dados.</p>
 ## Hard Skills
 - Java: Já consigo criar uma classe inteira desde a entity até a requisição no controller.
 - MySql: Sei ensinar.
+- GitHub: Sei usar.
 
 ## Soft Skills 
-* Comunicação clara de forma com que todos entendiam oque tinha de ser feito
+* Comunicação clara de forma com que todos entendiam oque tinha de ser feito.
+* Autonomia para desenvolver o modelo de banco de dados do começo ao fim
+* Aplicação da metodologia ágil
