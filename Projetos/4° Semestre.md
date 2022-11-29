@@ -22,7 +22,7 @@ O Hey Alexia permitirá ao cliente visualizar em forma de gráficos alguns segme
 - Oracle Cloud
 
 ## Contribuições Pessoais
-Neste projeto fiquei responsavel pelo desenvolvimento do Back-end. Usamos o spring boot como framework de apoio para melhor desenvolvimento do projeto em SPA. Tambem fui responsavél por modelar e criar o banco de dados do projeto.
+Neste projeto fiquei responsavel pelo desenvolvimento do Back-end. Usamos o spring boot como framework de apoio para melhor desenvolvimento do projeto em SPA. Tambem fui responsavél por modelar e criar o banco de dados do projeto.<br>
 Falando um pouco mais sobre oque fiz no projeto:
 * Importar arquivo CSV (back-end);
 * Consulta de dados no banco (todos os dados retirados do banco);
