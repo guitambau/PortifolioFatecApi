@@ -22,13 +22,20 @@ O Hey Alexia permitirá ao cliente visualizar em forma de gráficos alguns segme
 - Oracle Cloud
 
 ## Contribuições Pessoais
-* Arquitetura e modelagem do Banco de dados
-* Desenvolvimento do Backend
+Neste projeto fiquei responsavel pelo desenvolvimento do Back-end. Usamos o spring boot como framework de apoio para melhor desenvolvimento do projeto em SPA. Tambem fui responsavél por modelar e criar o banco de dados do projeto.
+Falando um pouco mais sobre oque fiz no projeto:
+* Importar arquivo CSV (back-end);
+* Consulta de dados no banco (todos os dados retirados do banco);
+* Login/Cadastro e permição de usuarios;
+* Relatorio com Informações dos consumidores;
 
 
 ## Hard Skills
-- Java: Sei ensinar.
+- SpringBoot/Java: Sei ensinar.
 - Oracle: Sei fazer.
+- Oracle Cloud: Sei fazer com ajuda.
+- GitHub: Sei fazer com ajuda.
+- VueJs: Ouvi falar.
 
 ## Soft Skills 
 * Melhorei muito o trabalho em equipe, pois sempre precisavamos manter a comunicação entre as parte.
