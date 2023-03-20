@@ -20,11 +20,6 @@ Usando principalmente com Spring Boot e o Hibernate.
 Minha experiancia com SQL se da desde o começo de 2021 em meu estagio.
 Por essa experiencia, hoje me encontro com um dominio amplo em SQL.
 
-### VB.Net/C#
-
-Ainda em meu estagio, la desenvolvo sistemas tanto WEB quanto Console.
-Com essa experiencia, .Net é onde tenho o meu maior dominio.
-
 
 <li><a href="https://github.com/guitambau/PortifolioFatecApi/blob/main/Projetos/1°%20Semetre.md">1º Semestre</a></li>
 
