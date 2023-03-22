@@ -12,13 +12,15 @@ O problema reportado era a falta de controle da jornada dos motoristas de caminh
 <li><a href="https://github.com/pdrMottaS/PI-JornadaDeMotoristas">Repositório do projeto</a></li>
 
 ## Tecnologias Utilizadas
-- Java
-- SpringBoot
-- MySql
-- React
+- Java - Utilizada para backend onde é desenvolvida a logica
+- SpringBoot - Framework utilizado para auxilio com java
+- MySql - Organização e arquivamento dos dados
+- React - Framework para o frontend 
 
 ## Contribuições Pessoais
-<p align="justify">Participei das tomadas de decisão da Equipe onde fui o Product Owner. Conversas com o cliente para saber como melhor seria o sistema para as soluções de seus problemas.</p>
+<p align="justify">Participei das tomadas de decisão da Equipe onde fui o Product Owner. Conversas com o cliente para saber como melhor seria o sistema para as soluções de seus problemas.
+Participação na criação dos endpoints com java e springboot para comunicação com o frontend.
+</p>
  
 ## Hard Skills
 - Java: Aprimorei meu conhecimento na linguagem. Consigo criar classes com funções simples sem envolvimento de persistência de dados.
