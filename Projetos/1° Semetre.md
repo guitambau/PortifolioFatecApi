@@ -17,9 +17,9 @@ A interface com o cliente foi realizada através de uma tela de smartphone. Um a
 
 A programação nesta plataforma se dá em blocos. Diversos recursos de linguagens de programação tradicionais (condições, loops e operações) em blocos ilustrativos, que tornam a construção de rotinas e lógicas visuais e, desta forma, mais intuitivas.
 
-Por conta desta natureza da ferramenta - [App Inventor](https://appinventor.mit.edu/) - não há código fonte a ser disponibilizado.
+Por conta desta natureza da ferramenta - [App Inventor](https://appinventor.mit.edu/)
 
-
+![App Inventor Logo](https://github.com/guitambau/PortifolioFatecApi/blob/main/IMG/app-inventor.png)
 
 #### Arduino 
 
