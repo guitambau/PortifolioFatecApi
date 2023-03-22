@@ -16,13 +16,13 @@ Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e rea
 * [Repositorio Equipe Tetris](https://github.com/equipe-tetris/scrum-cloud-frontend) 
 
 ## :computer: Tecnologias Utilizadas
-- GitHub
-- Linguagem de Programação: Java + Spring Boot
-- IDE Vs Code || Frontend
-- React
-- MySql
-- HTML5
-- CSS
+- GitHub - Gerenciamento do codigo
+- Linguagem de Programação: Java + Spring Boot - Linguagem do programação para o backend com framework
+- IDE Vs Code || Frontend - Ambiente de desenvolvimento
+- React - Framework para o frontend
+- MySql - Organização e arquivamento dos dados
+- HTML5 - Lingaguem de marcação para o frontend
+- CSS - Estilização do frontend
 
 ## Contribuições Pessoais
 <p align="justify">Neste projeto trabalhei como desenvolvedor no back end, dando suporte para o Davi Machado onde fizemos toda a logica de programação e testes manuais para ver o funcionamento da logica implementada.</br>
@@ -64,4 +64,3 @@ Mais efetivamente modelei e criei o banco de dados.</p>
 ## Soft Skills 
 * Comunicação clara de forma com que todos entendiam oque tinha de ser feito.
 * Autonomia para desenvolver o modelo de banco de dados do começo ao fim
-* Aplicação da metodologia ágil
