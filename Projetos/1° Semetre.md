@@ -19,7 +19,7 @@ A programação nesta plataforma se dá em blocos. Diversos recursos de linguage
 
 Por conta desta natureza da ferramenta - [App Inventor](https://appinventor.mit.edu/)
 
-![App Inventor Logo](https://github.com/guitambau/PortifolioFatecApi/blob/main/IMG/app-inventor.png)
+![Interface e codigo app inventor](https://github.com/guitambau/PortifolioFatecApi/blob/main/IMG/final.png)
 
 #### Arduino 
 
