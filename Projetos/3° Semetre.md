@@ -1,6 +1,6 @@
 ## 3º Semestre -  Scrum-Cloud 
 
-![logo_projeto](https://github.com/alexiakarine/scrum-cloud-backend/blob/master/resource/images/icon-scrumcloud.png)
+<img src = "https://github.com/alexiakarine/Projeto-integrador/blob/master/Icons/logo-scrumcloud.png" width= "20%"/>
 
 
 
