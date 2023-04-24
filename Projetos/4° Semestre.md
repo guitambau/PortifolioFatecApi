@@ -12,14 +12,13 @@ O Hey Alexia permitirá ao cliente visualizar em forma de gráficos alguns segme
 * [Repositorio Hey Alexia](https://github.com/EquipeFatec/api)
 
 ## :computer: Tecnologias Utilizadas
-- GitHub
-- Java
-- SpringBoot
-- Gradle
-- IDE Vs Code || Frontend
-- VueJs
-- Oracle Sql Developer
-- Oracle Cloud
+- GitHub (Utilizado como repositório)
+- Linguagem de Programação: Java (Utilizada nos códigos back-end da aplicação)
+- IDE Vs Code || Frontend (Utilizado como editor de código front-end)
+- IntelliJ (Utilizado como editor de código back-end)
+- VueJS (Utilizada nos códigos front-end da aplicação)
+- Spring Framework (Utiilizado para criar a aplicação)
+- Oracle | Oracle Clound (Utilizado para armazenamento de dados)
 
 ## Contribuições Pessoais
 Neste projeto fiquei responsavel pelo desenvolvimento do Back-end. Usamos o spring boot como framework de apoio para melhor desenvolvimento do projeto em SPA. Tambem fui responsavél por modelar e criar o banco de dados do projeto.<br>
@@ -38,4 +37,6 @@ Falando um pouco mais sobre oque fiz no projeto:
 - VueJs: Ouvi falar.
 
 ## Soft Skills 
-* Melhorei muito o trabalho em equipe, pois sempre precisavamos manter a comunicação entre as parte.
+* Autonomia de desenvolver o backend utilizando java springboot com os ensinamentos de aula.
+* Aplicação da metodologia ágil de forma com que as entregas tenham valor.
+* Autonomia em criar um banco de dados oracle a partir do zero.
