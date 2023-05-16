@@ -11,7 +11,7 @@ No terceiro semestre, tivemos como cliente a empresa IACIT, uma empresa brasilei
 Uma aplicação web que permita equipes remotas de desenvolvimento realizarem as cerimônias de Planning e Retrospective aplicadas na metodologia SCRUM.
 
 ## :pushpin: Solução apresentada pelo grupo
-Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização (real-time) de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes das mesmas.
+Nossa aplicação permitirá o cadastro de membros de equipes, agendamento e realização de reuniões com configuração de métricas customizáveis e exportação dos resumos para os integrantes da mesma.
 
 * [Repositorio Equipe Tetris](https://github.com/equipe-tetris/scrum-cloud-frontend) 
 
