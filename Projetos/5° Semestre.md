@@ -5,10 +5,10 @@
 Cliente foi o curso de Manutenção de aeronaves da Fatec.
 
 ## :clipboard: Solicitação 
-A norma STE é utilizada pelos fabricantes de aviões e componentes aeronáuticos com a proposta de escrever em inglês utilizando não mais que 900 palavras (todos os fabricantes utilizam). Para a documentação das aeronaves, é necessário realizar uma verificação das palavras aprovadas para que esteja conforme a norma. Atualmente, no curso de Manutenção de Aeronaves, esta busca é realizada por meio de uma planilha que apresenta as palavras e suas características.
+A norma STE é utilizada pelos fabricantes de aviões e componentes aeronáuticos com a proposta de escrever em inglês utilizando não mais que 900 palavras. Para a documentação das aeronaves, é necessário realizar uma verificação das palavras aprovadas para que esteja conforme a norma. Atualmente, no curso de Manutenção de Aeronaves, esta busca é realizada por meio de uma planilha excel que apresenta as palavras e suas características.
 
 ## :pushpin: Solução apresentada pelo grupo
-Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação para utilização da norma, exibindo as palavras aprovadas ou não aprovadas para consulta e verificação de textos.
+Criado pela equipe Sanja Valley, este projeto visa desenvolver uma aplicação para a consulta dessa norma via API, onde o usuario consegue pesquisar por palavras mostrando suas características e também pesquisar um texto onde retorna se a palavra é ou não aprovada e como alguns casos a palavra pode ser usada ou não, também é mostrado para o usuario. Como administrador o sistema permite a inserção, atualização e exclusao de palavras, como também a pesquisa.
 
 * [GIT Equipe Sanja Valley](https://github.com/EquipeFatec) 
 
