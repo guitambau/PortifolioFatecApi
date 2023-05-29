@@ -1,1 +1,47 @@
-6° Semestre
+## 6º Semestre -  iFest
+![logo_projeto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/icon_5.png)
+
+## A empresa
+Cliente foi o curso de Banco de dados da Fatec.
+
+## :clipboard: Solicitação 
+A norma STE é utilizada pelos fabricantes de aviões e componentes aeronáuticos com a proposta de escrever em inglês utilizando não mais que 900 palavras. Para a documentação das aeronaves, é necessário realizar uma verificação das palavras aprovadas para que esteja conforme a norma. Atualmente, no curso de Manutenção de Aeronaves, esta busca é realizada por meio de uma planilha excel que apresenta as palavras e suas características.
+
+## :pushpin: Solução apresentada pelo grupo
+Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de vendas, onde o usuário poderá pesquisar produtos, cadastrar-se, efetuar compras e verificar o histórico da conversa. O Chatbot também irá realizar uma análise dos dados para fornecer recomendações de produtos aos usuários.
+
+* [GIT Equipe Sanja Valley](https://github.com/Sanja-Valley) 
+
+## :computer: Tecnologias Utilizadas
+- GitHub (Utilizado como repositório)
+- Linguagem de Programação: Python (Utilizada nos códigos back-end da aplicação)
+- IDE Vs Code || Frontend (Utilizado como editor de código front-end)
+- Pycharm (Utilizado como editor de código back-end)
+- VueJS (Utilizada nos códigos front-end da aplicação)
+- Flask (Utiilizado para criar a aplicação)
+- Postgres (Utilizado para armazenamento de dados)
+
+## Contribuições Pessoais
+Neste projeto fiquei responsavel pelo desenvolvimento do Back-end, como criação das rotas e a logica de negocios de todo o projeto. Usamos o spring boot como framework de apoio para melhor desenvolvimento do projeto em SPA. Tambem fui responsavél por modelar e criar o banco de dados do projeto.<br>
+Criar uma imagem no Docker para hospedar no servidor local da Fatec.<br>
+Falando um pouco mais sobre oque fiz no projeto:
+* Importar arquivo CSV (back-end);
+* Consulta de dados no banco (todos os dados retirados do banco);
+* Login/Cadastro e permição de usuarios;
+* Criar imagem docker;
+
+
+## Hard Skills
+- SpringBoot/Java: Sei ensinar.
+- Oracle: Sei fazer ensinar.
+- Oracle Cloud: Sei fazer.
+- GitHub: Sei ensinar.
+- VueJs: Ouvi falar.
+- Docker: Sei fazer com ajuda.
+
+## Soft Skills 
+* Autonomia de desenvolver o backend utilizando java springboot com os ensinamentos de aula.
+* Aplicação da metodologia ágil de forma com que as entregas tenham valor.
+* Autonomia em criar um banco de dados oracle a partir do zero.
+* Proatividade em procurar recursos para resolver o problema de hospedagem do projeto.
+
