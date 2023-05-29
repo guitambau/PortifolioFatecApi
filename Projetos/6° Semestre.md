@@ -20,28 +20,26 @@ Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de ven
 - VueJS (Utilizada nos códigos front-end da aplicação)
 - Flask (Utiilizado para criar a aplicação)
 - Postgres (Utilizado para armazenamento de dados)
+- MongoDB (Utilizado para Log de conversas)
 
 ## Contribuições Pessoais
-Neste projeto fiquei responsavel pelo desenvolvimento do Back-end, como criação das rotas e a logica de negocios de todo o projeto. Usamos o spring boot como framework de apoio para melhor desenvolvimento do projeto em SPA. Tambem fui responsavél por modelar e criar o banco de dados do projeto.<br>
-Criar uma imagem no Docker para hospedar no servidor local da Fatec.<br>
+Neste projeto fiquei responsavel pelo desenvolvimento do Back-end, como criação das rotas e a logica de negocios do projeto. Também fiz a parte de recomendação dos produtos usando a biblioteca K-Means, onde a propria biblioteca agrupa conforme os parametros que o grupo decidiu usar, para a recomendação achamos melhor usarmos a quantidade comprada de cada usuario, assim os separando os 10 grupos. Para o uso do termo LGPD fiz verificações no banco para saber se o usuario já aceitou o termo vigente. Usamos o Flask como framework para a criação das rotas do API. Tambem fui responsavél por modelar e criar o banco de dados do projeto.<br>
 Falando um pouco mais sobre oque fiz no projeto:
-* Importar arquivo CSV (back-end);
 * Consulta de dados no banco (todos os dados retirados do banco);
-* Login/Cadastro e permição de usuarios;
-* Criar imagem docker;
+* Verificação do termo LGPD;
+* Recomendação com K-Means;
 
 
 ## Hard Skills
-- SpringBoot/Java: Sei ensinar.
-- Oracle: Sei fazer ensinar.
-- Oracle Cloud: Sei fazer.
+- Flask: Sei fazer.
+- Postgres: Sei ensinar.
 - GitHub: Sei ensinar.
-- VueJs: Ouvi falar.
-- Docker: Sei fazer com ajuda.
+- VueJs: Sei fazer.
+- MongoDb: Sei fazer.
 
 ## Soft Skills 
-* Autonomia de desenvolver o backend utilizando java springboot com os ensinamentos de aula.
+* Autonomia de desenvolver o backend utilizando Python Flask.
 * Aplicação da metodologia ágil de forma com que as entregas tenham valor.
-* Autonomia em criar um banco de dados oracle a partir do zero.
+* Autonomia em criar um banco de dados postgres a partir do zero.
 * Proatividade em procurar recursos para resolver o problema de hospedagem do projeto.
 
