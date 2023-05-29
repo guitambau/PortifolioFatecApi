@@ -31,6 +31,8 @@ Por essa experiencia, hoje me encontro com um dominio amplo em SQL.
 
 <li><a href="https://github.com/guitambau/PortifolioFatecApi/blob/main/Projetos/5°%20Semestre.md">5º Semestre</a></li>
 
+<li><a href="https://github.com/guitambau/PortifolioFatecApi/blob/main/Projetos/6°%20Semestre.md">6º Semestre</a></li>
+
 
 
 
