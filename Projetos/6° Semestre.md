@@ -1,11 +1,8 @@
 ## 6º Semestre -  iFest
-![logo_projeto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/icon_5.png)
+![logo_projeto](https://github.com/alexiakarine/Portifolios-projetos-fatec/blob/master/Icons/logo.jpg)
 
 ## A empresa
 Cliente foi o curso de Banco de dados da Fatec.
-
-## :clipboard: Solicitação 
-A norma STE é utilizada pelos fabricantes de aviões e componentes aeronáuticos com a proposta de escrever em inglês utilizando não mais que 900 palavras. Para a documentação das aeronaves, é necessário realizar uma verificação das palavras aprovadas para que esteja conforme a norma. Atualmente, no curso de Manutenção de Aeronaves, esta busca é realizada por meio de uma planilha excel que apresenta as palavras e suas características.
 
 ## :pushpin: Solução apresentada pelo grupo
 Criado pela equipe Sanja Valley, este projeto visa desenvolver um Chatbot de vendas, onde o usuário poderá pesquisar produtos, cadastrar-se, efetuar compras e verificar o histórico da conversa. O Chatbot também irá realizar uma análise dos dados para fornecer recomendações de produtos aos usuários.
