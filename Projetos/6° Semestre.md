@@ -35,8 +35,7 @@ Falando um pouco mais sobre oque fiz no projeto:
 - MongoDb: Sei fazer.
 
 ## Soft Skills 
-* Autonomia de desenvolver o backend utilizando Python Flask.
-* Aplicação da metodologia ágil de forma com que as entregas tenham valor.
-* Autonomia em criar um banco de dados postgres a partir do zero.
-* Proatividade em procurar recursos para resolver o problema de hospedagem do projeto.
+* Resiliência.
+* Proatividade.
+* Aprendizado contínuo.
 
