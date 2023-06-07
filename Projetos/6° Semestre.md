@@ -35,7 +35,7 @@ Falando um pouco mais sobre oque fiz no projeto:
 - MongoDb: Sei fazer.
 
 ## Soft Skills 
-* Resiliência.
-* Proatividade.
-* Aprendizado contínuo.
+* Resiliência. Pois no começo do projeto não nos deixamos abater pela primeira entrega, onde estavamos tentando usar a tecnologia errada.
+* Proatividade. Para a procura de recursos para resolver o problema da tecnologia do projeto.
+* Aprendizado contínuo. Reconhecimento de que a tecnologia errada havia sido escolhida no início do projeto demonstra a disposição da equipe em aprender com os erros e buscar constantemente o aprimoramento.
 
