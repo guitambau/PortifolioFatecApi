@@ -34,8 +34,7 @@ Falando um pouco mais sobre oque fiz no projeto:
 
 ## Hard Skills
 - SpringBoot/Java: Sei ensinar.
-- Oracle: Sei fazer ensinar.
-- Oracle Cloud: Sei fazer.
+- MySql: Sei fazer ensinar.
 - GitHub: Sei ensinar.
 - VueJs: Ouvi falar.
 - Docker: Sei fazer com ajuda.
